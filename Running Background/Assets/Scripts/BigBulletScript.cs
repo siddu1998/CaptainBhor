@@ -33,7 +33,7 @@ public class BigBulletScript : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision){
     if(collision.gameObject.tag=="HeroCharacter"){
         Destroy(gameObject);
-        PlayerControl.HeroHealth+=-20.0f;
+        PlayerControl.HeroHealth+=-10.0f;
         
     }      
     if(collision.gameObject.tag=="Steps"){

@@ -27,6 +27,7 @@ public class PlayerControl : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+         setHealthText();
         //check if key pressed and apply forces
 
         if(playerRigidbody!=null){
