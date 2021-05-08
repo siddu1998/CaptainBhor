@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ScrollingScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6a240da3adc1e5f56a5545b5325ce160
+  - enabled: 1
+    path: Assets/Scenes/OctetScene.unity
+    guid: 0cc732500c92e4a26b640449823c6197
   m_configObjects: {}
